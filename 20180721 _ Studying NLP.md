@@ -28,6 +28,14 @@ tokenizer : A **tokenizer** receives a stream of characters, breaks it up into
 
 
 
+**Labeled data** is a group of samples that have been tagged with one or more labels.**Labeling** typically takes a set of unlabeled **data** and augments each piece of that unlabeled **data** with meaningful tags that are informative. 
+
+labeled data는 한 그룹의 이름붙혀진 샘플이다. 
+
+
+
+
+
 Machine learning is a subset of artificial intelligence in the field of computer science that often uses statistical techniques to give computers the ability to "learn" with data, without being explicitly programmed. 
 
 
